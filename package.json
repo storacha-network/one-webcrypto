@@ -11,7 +11,8 @@
     ".": {
       "browser": "./browser.mjs",
       "import": "./node.mjs",
-      "require": "./node.cjs"
+      "require": "./node.cjs",
+      "types": "./index.d.ts"
     },
     "./package.json": "./package.json"
   },

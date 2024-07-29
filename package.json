@@ -1,8 +1,11 @@
 {
-  "name": "one-webcrypto",
-  "version": "1.0.3",
+  "name": "@storacha/one-webcrypto",
+  "version": "0.0.0",
   "description": "Import the webcrypto API as a single module in both nodejs and browsers.",
-  "repository": "https://github.com/fission-suite/one-webcrypto",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storacha-network/one-webcrypto.git"
+  },
   "author": "Philipp Krüger <philipp@fission.codes>",
   "license": "MIT",
   "types": "index.d.ts",
@@ -16,5 +19,12 @@
     },
     "./package.json": "./package.json"
   },
-  "dependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/storacha-network/one-webcrypto/issues"
+  },
+  "homepage": "https://github.com/storacha-network/one-webcrypto#readme"
 }

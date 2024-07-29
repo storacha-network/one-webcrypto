@@ -1,6 +1,6 @@
 {
   "name": "@storacha/one-webcrypto",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Import the webcrypto API as a single module in both nodejs and browsers.",
   "repository": {
     "type": "git",
